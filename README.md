@@ -1,6 +1,10 @@
 # AK Card Scanner
+> This application allows you to send barcode data to the Play! (https://github.com/jpd002/Play-) emulator's "Arcade I/O HTTP Server".
 
-This application allows you to send barcode data to the Play! (https://github.com/jpd002/Play-) emulator's "Arcade I/O HTTP Server".
+## Disclaimer:
+> This application contains no copyrighted material! It simply contains a list of 8-character strings.
+> This application simply sends strings to a port on a local server. This can be accomplished using many other programs such as PostMan.
+
 
 ## Scanning a card (Windows)
 > 1. Download the latest version of AK Card Scanner Emulator  [**HERE**](<https://github.com/Gama-Tech/AK-Card-Scanner-Releases/releases/tag/release>)
