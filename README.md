@@ -3,8 +3,8 @@
 
 ## Disclaimer:
 > This application contains no copyrighted material!<br>
-> It simply contains lists of 8-character strings which are freely available online.<br>
-> This application simply sends strings to a port on a local server, which can be accomplished using many other programs such as PostMan or even directly in command-prompt using Curl.
+> It simply contains lists of 8-character strings of text which are freely available online.<br>
+> This application simply sends strings of text to a port on a local server, which can be accomplished using many other programs such as PostMan or even via command-prompt using Curl.
 
 
 
