@@ -2,7 +2,7 @@
 > This application allows you to send barcode data to the Play! (https://github.com/jpd002/Play-) emulator's "Arcade I/O HTTP Server".
 
 ## Disclaimer:
-> This application contains no copyrighted material! 
+> This application contains no copyrighted material!
 > It simply contains lists of 8-character strings which are freely available online.
 > This application simply sends strings to a port on a local server, which can be accomplished using many other programs such as PostMan or Curl.
 
