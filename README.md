@@ -4,15 +4,15 @@
 ## Disclaimer:
 > This application contains no copyrighted material!<br>
 > It simply contains lists of 8-character strings of text which are freely available online.<br>
-> This application simply sends strings of text to a port on a local server, which can be accomplished using many other programs such as PostMan or even via command-prompt using Curl.
+> This application simply sends strings of text to a port on a local server, which can be accomplished using many other applications such as PostMan or even via command-prompt using Curl.
 
 ## Installation:
 > 1. Download the latest version of AK Card Scanner Emulator from the [**releases page**](<https://github.com/Gama-Tech/AK-Card-Scanner-Releases/releases>).
 > 
 > 2. Extract the contents to a folder on your PC.
 > 
-> 3. Double-click `AKCardScanner.exe` to start the program.<br>
-> If you changed the Arcade I/O HTTP Server's port in the emulator, you'll need to set the same port in the Card Scanner program. 
+> 3. Double-click `AKCardScanner.exe` to start the application.<br>
+> If you changed the Arcade I/O HTTP Server's port in the emulator, you'll need to set the same port in the Card Scanner application. 
 
 
 ## Scanning a card (Windows) 
