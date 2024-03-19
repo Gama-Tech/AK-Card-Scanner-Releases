@@ -18,7 +18,7 @@
 ## Scanning a card (Windows) 
 > **Pre-loaded Cards<br>**
 > Select an Animal, Strong & Miracle card from the dropdown boxes and click `Scan Card` when the game prompts you to.<br>
-> If you select 1 of each card types then can click `Scan All` to send all 3 at once.<br>
+> You can click `Scan All` to send all 3 selected cards at once.<br>
 > The application will display a progress bar as it scans each card in sequence.<br><br>
 > 
 > **Custom Cards**<br>
