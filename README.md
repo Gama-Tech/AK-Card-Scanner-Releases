@@ -7,7 +7,7 @@
 > This application simply sends strings of text to a port on a local server, which can be accomplished using many other applications such as PostMan or even via command-prompt using Curl.
 
 ## Installation:
-> 1. Download the latest version of AK Card Scanner Emulator from the [**releases page**](<https://github.com/Gama-Tech/AK-Card-Scanner-Releases/releases>).
+> 1. Download the latest version of AK Card Scanner from the [**releases page**](<https://github.com/Gama-Tech/AK-Card-Scanner-Releases/releases>).
 > 
 > 2. Extract the contents to a folder on your PC.
 > 
