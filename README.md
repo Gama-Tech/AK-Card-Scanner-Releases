@@ -1,5 +1,7 @@
 # AK Card Scanner
 > This application allows you to send barcode data to the "Arcade I/O HTTP Server" of the [**Play! - PlayStation2 emulator**](<https://github.com/jpd002/Play->).
+> ![image](https://github.com/Gama-Tech/AK-Card-Scanner-Releases/assets/80988054/a9e996ad-2afa-4bca-9efc-7b9c47cb9af3)
+
 
 ## Disclaimer:
 > This application contains no copyrighted material!<br>
