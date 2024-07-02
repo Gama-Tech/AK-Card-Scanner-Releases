@@ -29,3 +29,9 @@
 > Simply click inside the `Custom Barcode` text box then scan your card.<br>
 > Your barcode scanner should enter the code for you and send it automatically.<br>
 > **NOTE:** The above method will only work for USB barcode scanners that emulate keyboard input.
+
+
+## Other Platforms:
+> If you're using a non-Windows platform I highly suggest trying [**Card Collections**](<https://github.com/Bebeq/Card-Collections>) by [**Bebeq**](<https://github.com/Bebeq>).<br>
+> Card Collections allows you to display, store, and send barcode data via a cross-platform web server application.<br>
+> You can even scan barcodes directly using a mobile device.
