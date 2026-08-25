@@ -1,3 +1,9 @@
+# THIS PROJECT HAS MOVED ⚠️
+> This project is now open-source and available here: [**AK Card Scanner**](<https://github.com/Gama-Tech/AK-Card-Scanner/releases>)!<br>
+> This page won't receive any further updates - it remains here just so older versions of AK Card Scanner can update to Version 2.0.0.<br>
+> Please update to 2.0.0 to receive future updates!
+
+
 # AK Card Scanner
 > This application allows you to send barcode data to the "Arcade I/O HTTP Server" of the [**Play! - PlayStation2 emulator**](<https://github.com/jpd002/Play->).<br>
 > ![image](https://github.com/Gama-Tech/AK-Card-Scanner-Releases/assets/80988054/a9e996ad-2afa-4bca-9efc-7b9c47cb9af3)
